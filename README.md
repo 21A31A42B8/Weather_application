@@ -1,1 +1,1 @@
-https://jayanthkumarkorada.github.io/weather_app/
+https://21a31a42b8.github.io/Weather_application/
